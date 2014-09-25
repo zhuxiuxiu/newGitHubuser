@@ -1,0 +1,4 @@
+First:please enter "make" to execute,
+Second:please enter "./test" to continue.
+Third: you can enter "help","version","quit","debug" or other commands to look for them.
+Forth: enter ctrl+c to stop.
